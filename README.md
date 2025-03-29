@@ -1,1 +1,7 @@
-# Code_review_agent
+# Code review agent
+
+## Purpose:
+- Github repository automated review
+
+## Technology:
+- langchain
